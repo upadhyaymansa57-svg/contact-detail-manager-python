@@ -48,6 +48,6 @@ The program displays a menu where users can select options to perform operations
 ---
 
 ## 💻 Code
--'contact_manager.py'
+- 'contact_manager.py'
 
 -
