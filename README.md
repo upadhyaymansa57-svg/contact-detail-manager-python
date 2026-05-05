@@ -47,5 +47,11 @@ The program displays a menu where users can select options to perform operations
 
 ---
 
-## 💻 Code
-'contact_manager.py'
+## 💻 Code 
+
+Run the program 
+
+```bash
+
+contact-detail-manager-python
+
